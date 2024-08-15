@@ -1,0 +1,85 @@
+{
+    "pizzas": [
+     {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "image": "https://images.pexels.com/photos/7474114/pexels-photo-7474114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 199,
+      "size": "Regular",
+      "category": "cheese pizza",
+      "description": "roundish in shape with a raised edge (the cornicione) and garnished with hand-crushed peeled tomatoes, mozzarella (buffalo mozzarella or fior di latte), fresh basil leaves, and extra virgin olive oil."
+     },
+     {
+      "id": 2,
+      "name": "Marinara Pizza",
+      "image": "https://images.pexels.com/photos/27600445/pexels-photo-27600445/free-photo-of-pizza-cut-into-slices.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 299,
+      "size": "Regular",
+      "category": "Neapolitan cuisine",
+      "description": "seasoned with only tomato sauce, extra virgin olive oil, oregano and garlic."
+     },
+     {
+      "id": 3,
+      "name": "Capricciosa Pizza",
+      "image": "https://images.pexels.com/photos/26150729/pexels-photo-26150729/free-photo-of-delicious-pizza-with-bacon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 249,
+      "size": "Regular",
+      "category": " Italian cuisine",
+      "description": "prepared with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato."
+     },
+     {
+      "id": 4,
+      "name": "Pizza quattro formaggi",
+      "image": "https://images.pexels.com/photos/25956012/pexels-photo-25956012/free-photo-of-slices-of-pizza-with-different-toppings.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 100,
+      "size": "Regular",
+      "category": "Italian cuisine",
+      "description": "It is topped with a combination of four kinds of cheese, usually melted together, with (rossa, red) or without (bianca, white) tomato sauce."
+     },
+     {
+      "id": 5,
+      "name": "Pizza quattro stagioni",
+      "image": "https://images.pexels.com/photos/25907488/pexels-photo-25907488/free-photo-of-hand-holding-a-piece-of-pizza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 149,
+      "size": "Regular",
+      "category": "Italian cuisine",
+      "description": "is prepared in four sections with diverse ingredients, with each section representing one season of the year."
+     },
+     {
+      "id": 6,
+      "name": "Pizza pugliese",
+      "image": "https://images.pexels.com/photos/27600445/pexels-photo-27600445/free-photo-of-pizza-cut-into-slices.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 189,
+      "size": "Regular",
+      "category": "Italian cuisine",
+      "description": "It is prepared with tomato, onion, and mozzarella."
+     },
+     {
+      "id": 7,
+      "name": "Seafood pizza",
+      "image": "https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 179,
+      "size": "Regular",
+      "category": "",
+      "description": "Fresh or frozen seafood may be used,[5] and some versions use canned seafood, such as canned tuna."
+     },
+     {
+      "id": 8,
+      "name": "White pizza",
+      "image": "https://images.pexels.com/photos/5639961/pexels-photo-5639961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 239,
+      "size": "Regular",
+      "category": "Marinara",
+      "description": "made with tomato, garlic, oregano and extra-virgin olive oil"
+     },
+     {
+      "id": 9,
+      "name": "Colorado-style pizza",
+      "image": "https://images.pexels.com/photos/16994473/pexels-photo-16994473/free-photo-of-person-pouring-olive-oil-on-a-pizza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 289,
+      "size": "Regular",
+      "category": "Colorado",
+      "description": "thick, braided crust topped with heavy amounts of sauce and cheese."
+     }
+    ]
+    }

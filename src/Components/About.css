@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about-container{
+    background-color:coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px auto;
+}
+.hea{
+    align-items: center;
+    justify-content: center;
+}
+
+.img{
+    max-width: 100px;
+    align-items: center;
+}
